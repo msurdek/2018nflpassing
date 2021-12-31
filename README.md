@@ -4,7 +4,7 @@ Some projects I have worked on outside of work and school in an attempt to learn
 
 NFL Passing: My first project applying linear regression to NFL passing statistics
 
-Boston Sports Clubs Sales: Trying to see if demographic info can predict membership sales
+Sales: Trying to see if demographic info can predict Boston Sports Clubs membership sales
 
 Learning R: A couple of visualizations made from more NFL and BSC data
 
